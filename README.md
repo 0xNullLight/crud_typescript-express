@@ -60,6 +60,6 @@ Understanding CRUD operations in different contexts is the foundation for buildi
 _____
 
 # Note to self on things to do:
-1) Look over **POSTGRESQL** (SQL) version utilize by Object-Relational-Mapper (ORM) called **Sequelize**
-2) Add a CRUD for **MongoDB** (NOSQL) version utilize by Object-Document-Mapper (ODM) called **Mongoose**
+1) Look over **POSTGRESQL** version utilize by Object-Relational-Mapper (ORM) called **Sequelize** | **SQL**
+2) Add a CRUD for **MongoDB** version utilize by Object-Document-Mapper (ODM) called **Mongoose** | **NOSQL**
 3) Review for future updates..
