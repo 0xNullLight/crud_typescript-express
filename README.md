@@ -57,3 +57,9 @@ Once you understand the flow of data and how the MVC pattern fits into your appl
 ## Conclusion
 
 Understanding CRUD operations in different contexts is the foundation for building backend applications in TypeScript with Express. After mastering this, you will have the necessary knowledge to break your application into reusable, scalable components using the MVC architecture.
+
+_____
+
+# Note to self on things to do:
+1) Add a CRUD for NOSQL
+2) Review for future updates..
