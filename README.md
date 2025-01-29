@@ -2,7 +2,7 @@
 # Learning TypeScript & Express with CRUD Operations
 
 As I'm reviewing typescript & express, I realize the most effectively & efficiently way to learn any programming language is to understand how to build a simple **CRUD** in a ***single file setup*** **before**
-1) Diving into more complex structures like break the whole process into separate components
+1) Diving into more complex structures like breaking the whole process into separate components
 
 2) Understanding how it fits into any software architecture like **Model-View-Controller (MVC)**
 
