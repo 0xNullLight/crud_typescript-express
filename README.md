@@ -61,5 +61,6 @@ Understanding CRUD operations in different contexts is the foundation for buildi
 _____
 
 # Note to self on things to do:
-1) Add a CRUD for NOSQL
-2) Review for future updates..
+1) Look over Sequalize version
+2) Add a CRUD for NOSQL
+3) Review for future updates..
