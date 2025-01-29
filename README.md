@@ -1,4 +1,3 @@
-
 # Learning TypeScript & Express with CRUD Operations
 
 As I'm reviewing typescript & express, I realize the most effectively & efficiently way to learn any programming language is to understand how to build a simple **CRUD** in a ***single file setup*** **before**
@@ -14,7 +13,7 @@ This guide explains how to implement CRUD in various storage options:
 
 1. **In-memory CRUD**
 2. **JSON-based CRUD**
-3. **Sequelize-based CRUD (SQL)**
+3. **POSTGRESQL-based CRUD (Sequelize)**
 
 ## CRUD Operations
 
@@ -28,7 +27,7 @@ This guide explains how to implement CRUD in various storage options:
 - **How it helps:** Introduces data persistence using files, which is more practical than in-memory storage. Learn how to parse and manage data stored in a file.
 - **Limitation:** File storage is limited in scalability and concurrency. This approach is not recommended for production systems but works well for learning.
 
-### 3. Sequelize-based CRUD
+### 3. POSTGRESQL-based CRUD (Sequelize)
 - **Purpose:** Data is stored in a relational database using Sequelize (an ORM for Node.js).
 - **How it helps:** Teaches you how to manage data in a database, including creating models, handling relationships between tables, and running database queries. This is closer to real-world applications and production environments.
 - **Limitation:** Requires a database setup, which introduces complexity but is essential for modern web apps.
@@ -61,6 +60,6 @@ Understanding CRUD operations in different contexts is the foundation for buildi
 _____
 
 # Note to self on things to do:
-1) Look over Sequalize version
-2) Add a CRUD for NOSQL
+1) Look over **POSTGRESQL** (SQL) version utilize by Object-Relational-Mapper (ORM) called **Sequelize**
+2) Add a CRUD for **MongoDB** (NOSQL) version utilize by Object-Document-Mapper (ODM) called **Mongoose**
 3) Review for future updates..
